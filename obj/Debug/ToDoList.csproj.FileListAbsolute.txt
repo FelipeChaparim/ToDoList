@@ -1,0 +1,10 @@
+C:\Users\Consultor\Documents\GitHub\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Consultor\Documents\GitHub\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Consultor\Documents\GitHub\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.Form_Principal.resources
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.pdb

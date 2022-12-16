@@ -8,3 +8,5 @@ C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.GenerateR
 C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
 C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.exe
 C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultor\Documents\GitHub\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
